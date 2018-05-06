@@ -1,3 +1,8 @@
+---
+layout: post
+title: GIT Add command
+---
+
 #### GIT Add
 
 * `git add .`
