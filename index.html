@@ -1,13 +1,24 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Hello World</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="v1.0.0">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="author" content="steven.lasch@gmail.com">
+
+    <title>stevenlasch.github.io</title>
+
+    <link rel="stylesheet" href="/artifacts/styles-mobile.css" type="text/css">
+    <script src="/artifacts/htmx.min.js"></script>
 </head>
-
 <body>
+    <header>stevenlasch.<span>github.io</span></header>
 
-<h1>Hello World</h1>
-<p>Last update: 8/27/2025</p>
+    <main id="content-area" hx-get="/html/index-main.html" hx-trigger="load">Loading...</main>
+
+    <nav class="bottom-nav">
+        <a href="#" hx-get="/html/index-main.html" hx-target="#content-area" hx-swap="innerHTML">Home</a>
+    </nav>
 </body>
 </html>
