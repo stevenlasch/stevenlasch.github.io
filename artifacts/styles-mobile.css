@@ -53,11 +53,22 @@ a.button {
     margin-top: 0.5rem;
 }
 
+.thumbtack {
+    background-image: url('icon-thumbtack-f.png');
+    width: 32px;
+    height: 32px;
+    border: 0;
+    background-size: contain;
+    background-position: center;
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+
 /* Responsive tweaks */
 @media (min-width: 600px) {
     main {
-    max-width: 600px;
-    margin: 0 auto;
+        max-width: 600px;
+        margin: 0 auto;
     }
 }
 
