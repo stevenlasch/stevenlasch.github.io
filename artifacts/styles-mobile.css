@@ -19,6 +19,12 @@ header span {
     color: #666666;
 }
 
+hr {
+    height: 1px;
+    border: none;
+    border-top: 1px solid gray;
+}
+
 main {
     padding: 1rem;
 }
@@ -67,7 +73,7 @@ a.button {
 /* Responsive tweaks */
 @media (min-width: 600px) {
     main {
-        max-width: 600px;
+        max-width: 800px;
         margin: 0 auto;
     }
 }

@@ -12,4 +12,9 @@ Mac: (Python 2.7.10)
 
 #### Releases
 
+- v1.0.1: Adds thumbtack icon
 - v1.0.0: Initial project setup and coding
+
+#### Clone the Repository
+
+git clone https://github.com/stevenlasch/stevenlasch.github.io.git
