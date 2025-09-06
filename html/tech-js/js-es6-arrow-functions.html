@@ -1,0 +1,84 @@
+<div class="card">
+    <h2>JavaScript: ES6: Functions: Arrow functions</h2>
+
+    <ul>
+        <li><a href="https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/" target="_blank">ES6 In Depth: Arrow function</a></li>
+        <li><a href="https://github.com/lukehoban/es6features#arrows" target="_blank">Arrow Function explained by Luke Hoban</a></li>
+        <li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank">Mozilla.org</a></li>
+        <li><a href="https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/" target="_blank">Arrow functions in-depth</a></li>
+        <li><a href="https://www.w3schools.com/react/react_es6.asp" target="_blank">ES6 explained at w3schools React Tutorial</a></li>
+    </ul>
+
+    <ul>
+        <li>Arrows are a function shorthand using the => syntax which return the value of the expression.</li>
+        <li>Simple: 1: A function with no parameters: `() => { statements }`</li>
+        <li>Simple: 2: A function with 3 parameters: `(one, two, three) => { statements }`</li>
+    </ul>
+
+    <h3>Return Statement</h3>
+
+    <p>In this example, the return value does not need to be defined</p>
+
+    <pre>
+    isRowSelectable: () => {
+        return !$scope.options.readonly;
+    },
+
+    isRowSelectable: () => {
+        !$scope.options.readonly;
+    },
+    </pre>
+
+    <p><a href="https://mariusschulz.com/blog/returning-object-literals-from-arrow-functions-in-javascript" target="_blank">Returning Ojbect Literals</a></p>
+
+    <pre>
+    const row = [{rowId: -1}];
+
+    const getCurrentUser = row => ({
+        rowId: row[0].rowId,
+        self: false,
+        model: {
+            rowId: row[0].rowId,
+            fullname: null
+        }
+    });
+
+    console.log(getCurrentUser(row));
+    </pre>
+
+
+</div>
+
+<div class="card">
+    <h2>JavaScript: ES6: Arrow Functions: Rangle.io</h2>
+
+    <ul>
+        <li><a href="https://angular-training-guide.rangle.io/features/es6" target="_blank">JavaScript: ES6</a></li>
+        <li><a href="https://angular-training-guide.rangle.io/features/es6/arrow_functions" target="_blank">JavaScript: ES6: Arrow Functions</a></li>
+    </ul>
+
+    <ul>
+        <li>ES6 offers some new syntax for dealing with `this`: "arrow functions".</li>
+        <li>The new "fat arrow" notation can be used to define anonymous functions in a simpler way.</li>
+        <li>Rewrite `items.forEach(function(x) {...});` to be `items.forEach((x) => {...});`</li>
+        <li>Single expression example: `incrementedItems = items.map((x) => x+1);`</li>
+    </ul>
+
+    <h3><b>This</b> Keyword</h3>
+
+    <ul>
+        <li>When `this` is used inside an arrow function JavaScript uses the `this` from the outer scope.</li>
+        <li>Always use arrow functions with ES6 to keep the `this` keyword referring to the object instantiated from the class.</li>
+        <li>With arrow functions, the `this` keyword always represents the object that defined the arrow function.</li>
+    </ul>
+</div>
+
+<p><button class="button" hx-get="/html/tech-js/js-index.html"  hx-target="#content-area" hx-swap="innerHTML">Tech: JavaScript</button></p>
+<br />
+
+<!--
+#### Arrow function: Parameters: Defaults
+
+Example: 1
+($rootScope, $uibModal, BASE_URL) => (options = {}) => {
+-->

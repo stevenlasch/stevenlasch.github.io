@@ -18,3 +18,8 @@ Mac: (Python 2.7.10)
 #### Clone the Repository
 
 git clone https://github.com/stevenlasch/stevenlasch.github.io.git
+
+#### Developer Notes
+
+- All links should be from the project root forward
+- There should be a <br /> at the end of every content file

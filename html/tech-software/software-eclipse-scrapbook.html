@@ -1,0 +1,33 @@
+<div class="card">
+    <h2>Eclipse: Scrapbook Page</h2>
+
+    <p><a href="https://help.eclipse.org/latest/topic/org.eclipse.jdt.doc.user/reference/views/ref-view-scrapbook.htm" target="_blank">A Java "Scrapbook Page"</a> 
+    in Eclipse is a specialized editor within the Eclipse Integrated Development Environment (IDE) that allows developers to quickly write, evaluate, 
+    and inspect Java code snippets without needing to create a full Java class or project for each small test.<p>
+
+    <ul>
+        <li><a href="https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Freference%2Fviews%2Fref-view-scrapbook.htm" target="_blank">Creating a Java Scrapbook Page</a></li>
+    </ul>
+
+    <ol>
+        <li>File > New > Other...</li>
+        <li>Java > Java Run/Debug > Scrapbook Page > Next</li>
+        <li>Name the file and click finish<li>
+    </ol>
+
+    <p>Highlight the code > Right click and choose > Execute</p>
+
+    In a Scrapbook page:
+
+    <ul>
+        <li>You type a code fragment (not necessarily a full class).</li>
+        <li>You highlight what you want to run > right-click → Execute / Execute Selected Text.</li>
+        <li>If the code compiles and runs → output goes to the Console view.</li>
+        <li>If there are compile errors (e.g., missing imports, unresolved types) → Eclipse shows the red squiggly lines and error markers inside the Scrapbook document itself.</li>
+        <li>If there are runtime exceptions (e.g., SQL error, NullPointerException) → the stack trace is printed in the Console.</li>
+        <li>So yes, seeing the errors inline in the Scrapbook file is normal. It's how Eclipse tells you what's wrong before or during execution.</li>
+    </ul>
+
+    <p><b style="color: red;">Don't use Scrapbook pages. Use JUnit tests instead.</b></p>
+</div>
+<br />

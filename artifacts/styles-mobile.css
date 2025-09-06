@@ -25,6 +25,14 @@ hr {
     border-top: 1px solid gray;
 }
 
+ul {
+   margin: 0 0 20px 0; 
+}
+
+li {
+    margin: 0 0 0 3px;
+}
+
 main {
     padding: 1rem;
 }
@@ -44,19 +52,6 @@ a:hover {
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     padding: 1rem;
     margin-bottom: 1rem;
-}
-
-a.button {
-    display: inline-block;
-    background: #007aff;
-    color: white;
-    text-decoration: none;
-    padding: 0.75rem 1.25rem;
-    border-radius: 8px;
-    text-align: center;
-    font-size: 1rem;
-    font-weight: bold;
-    margin-top: 0.5rem;
 }
 
 .thumbtack {
@@ -81,17 +76,17 @@ a.button {
 .button {
   display: block;              /* takes full line */
   width: 100%;                 /* span container width */
-  background: #007aff;
-  color: white;
+  background: #ffffff;
+  color:  #007aff;
   text-decoration: none;
   padding: 0.75rem 1.25rem;
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: bold;
   margin-top: 0.5rem;
   cursor: pointer;
-  border: none;
-  text-align: center;          /* center button text */
+  border: 1px solid #007aff;
+  text-align: left;
   box-sizing: border-box;      /* keep padding inside width */
 }
 
