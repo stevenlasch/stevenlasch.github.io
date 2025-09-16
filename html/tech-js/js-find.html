@@ -1,0 +1,27 @@
+<div class="card">
+    <h2>JavaScript: Find</h2>
+
+    <p>You can simply use the find() method to find an object by a property value in an array of objects in JavaScript. 
+    The find() method returns the first element in the given array that satisfies the provided testing function. 
+    If no values satisfy the testing function, undefined is returned.</p>
+
+    <pre>
+        // Sample array
+        var myArray = [
+            {"id": 1, "name": "Alice"},
+            {"id": 2, "name": "Peter"},
+            {"id": 3, "name": "Harry"}
+        ];
+
+        // Get the Array item which matchs the id "2"
+        var result = myArray.find(item => item.id === 2);
+
+        console.log(result.name);  // Prints: Peter
+    </pre>
+
+    <h3>Content</h3>
+    <ul>
+        <li><a href="https://www.tutorialrepublic.com/faq/how-to-find-an-object-by-property-value-in-an-array-of-javascript-objects.php" target="_blank">Tutorial</a></li>
+    </ul>
+</div>
+<br />
