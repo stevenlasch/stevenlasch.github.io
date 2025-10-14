@@ -1,0 +1,23 @@
+
+#### SQL: Functions
+
+- [Split string](https://www.sqlservertutorial.net/sql-server-string-functions/sql-server-string_split-function/)
+
+#### SQL: Links & Articles
+
+- [Mastery with SQL](https://www.masterywithsql.com/)
+- [select count(*) from select](http://stackoverflow.com/questions/10439122/select-count-from-select)
+
+#### SQL: Web SQL
+
+- [W3C WebSQL API](https://dev.w3.org/html5/webdatabase/#databases)
+- [TutorialsPoint](https://www.tutorialspoint.com/html5/html5_web_sql.htm)
+- [Saving form values in Web SQL database](https://stackoverflow.com/questions/22647774/saving-form-values-in-web-sql-database)
+- [Creating a backup of a WebSQL database](https://www.raymondcamden.com/2014/02/24/Creating-a-data-backup-of-a-WebSQL-database)
+
+Core Methods
+
+- `openDatabase(databaseName, versionNumber, textDescription, databaseSize, callback)`
+- `var db = openDatabase('mydb', '1.0', 'Test DB', 2 - 1024 - 1024);`  
+- `transaction()`
+- `executeSql()`

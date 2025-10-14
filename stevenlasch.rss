@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>The RSS Feed for Steven Lasch</title>
+        <link>https://stevenlasch.github.io</link>
+        <description>A collection of URLs, resources and content on a variety of subjects.</description>
+        <category>Web development</category>
+        <image>
+            <url>https://stevenlasch.github.io/artifacts/icon-thumbtack-f.png</url>
+            <title>stevenlasch.github.io</title>
+            <link>https://stevenlasch.github.io</link>
+        </image>
+        <language>en-us</language>
+        <item>
+            <title>China: The Let it Rot Movement</title>
+            <link>https://youtu.be/oiBtn4Hq6kA?si=0fQvv528iezftIAX</link>
+            <description>YouTube: A Movement in china steming from the the realization that young people cannotget ahead in society</description>
+        </item>
+        <item>
+            <title>Rumeysa Ozturk</title>
+            <link>https://www.cnn.com/2025/03/27/us/rumeysa-ozturk-detained-what-we-know/index.html</link>
+            <description>Politics: Persecuted by immigration officers</description>
+        </item>
+        <item>
+            <title>Penske Used Trucks</title>
+            <link>https://www.penskeusedtrucks.com/truck-types/light-and-medium-duty/cargo-vans</link>
+            <description>Cargo Vans</description>
+        </item>
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+        </item>
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+        </item>
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+        </item>
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+        </item>
+    </channel>
+</rss>
+
+<!--
+
+  }, {
+    "active": 1,
+    "title": "Turo",
+    "url": "https://turo.com/us/en/car-rental/united-states/get-started",
+    "category": "Auto",
+    "description": "The Air BNB for cars"
+  }, {
+    "active": 1,
+    "title": "Speech Coach",
+    "url": "https://youtu.be/zsuOSDb7gzQ?si=LSBZd8ewXRJsRnHX",
+    "category": "YouTube",
+    "description": ""
+  }, {
+    "active": 1,
+    "title": "When you stop worrying, everything goes well",
+    "url": "https://youtu.be/CN-thidC3bA?si=PTaSuQz9lFCx0BNy",
+    "category": "YouTube",
+    "description": ""
+  }, {
+    "active": 1,
+    "title": "Looking for work at 59",
+    "url": "https://youtu.be/IlX2pHyqTr8?si=eOgxyfX1VjCnJhyS",
+    "category": "YouTube",
+    "description": ""
+-->

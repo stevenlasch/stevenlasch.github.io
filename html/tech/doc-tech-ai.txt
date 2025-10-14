@@ -1,0 +1,204 @@
+### Tech: AI
+
+- AI: Forex Trading
+- AI: OpenAI: Links
+- AI: ChatGPT
+- AI: Chat GPT: Template:
+- AI: Links
+
+#### AI: Forex Trading
+
+https://www.udemy.com/course/master-the-art-of-creating-forex-and-bitcoin-ai-trading-bots
+https://www.forex.com/en-us/news-and-analysis/robo-trading/?amp=true
+https://www.forex.com/en-us/trading-tools/capitalise-ai/
+
+Of course, there are also pitfalls to using trading bots. Algorithmic software is not always adaptive, 
+meaning a change in market conditions may interfere with your strategy’s logic.  
+
+A breakout strategy being used in a ranging market can bring adverse results and it can happen very quickly 
+as there are numerous possible trade opportunities. Forex trading robots are also continuously active and if left unattended, 
+this can lead to a damaging impact to the trader's account as trades are taking place in the background.
+
+#### AI: Links
+
+- Article AI..: ChatGPT..: https://www.forbes.com/sites/jodiecook/2024/06/12/transform-your-entire-routine-with-chatgpt-voice-supercharge-output/
+- Article AI..: https://www.theverge.com/2023/5/23/23734027/adobe-photoshop-generative-fill-ai-image-generator-firefly
+
+- Website.....: GPT-4: https://openai.com/product/gpt-4
+- Website.....: GPT-4: https://openai.com/research/gpt-4
+- Website.....: https://openai.com/
+- Website.....: https://openai.com/dall-e-3
+- Website.....: https://chat.openai.com/
+
+#### AI: ChatGPT
+
+Presentations with AI
+https://www.beautiful.ai/
+
+AutoGPT
+- https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/
+- https://www.instagram.com/reel/CrKqKwcNVd1/?igshid=YmMyMTA2M2Y=
+
+Chat GPT templates
+https://www.instagram.com/reel/Cq_SXJxpo1X/?igshid=YmMyMTA2M2Y=
+
+ChatGPT
+https://openai.com/blog/chatgpt/
+
+https://twitter.com/amasad/status/1598042665375105024?ck_subscriber_id=1697806234
+
+Codepen ChatGPT Examples
+https://codepen.io/collection/YyYWLz
+
+Explain code
+https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/
+
+ChatGPT on YouTube
+- https://youtu.be/1hHfoB4mSrQ
+- https://youtu.be/JTxsNm9IdYU
+
+The AI Tipping Point
+https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai
+
+The best little Unicorn in Texas
+https://www.theinformation.com/articles/the-best-little-unicorn-in-texas-jasper-was-winning-the-ai-race-then-chatgpt-blew-up-the-whole-game?
+
+ChatGPT is on fire
+https://www.theinformation.com/articles/chatgpt-is-on-fire-and-a-cottage-industry-of-bot-builders-is-exploding-alongside-it
+
+How to Talk to ChatGPT: An Intro to Prompt Engineering
+https://hackernoon.com/how-to-talk-to-chatgpt-an-intro-to-prompt-engineering
+
+Packt Newsletter:
+https://mailchi.mp/packt.com/datapro_39?e=975722c1e9
+
+#### AI: Chat GPT: Template:
+
+You have all the information about anything to do with <topic>. I will ask you questions about different topics within <topic> 
+and you will provide me with clear, concise, and accurate information. Ensure that you only repsond back with answers that you 
+are fully confident in. Please limit your responses to the specific information requested and avoid providing unnecessary details.
+
+#### AI: Links
+ 
+AI Travel...: GuideGeek.ai
+
+JSON {} With OpenAI
+https://dev.to/mattlewandowski93/json-with-openai-3je9
+
+60 minutes episodes
+https://youtu.be/aZ5EsdnpLMI?si=ZxwtNC-DHOR8Be0h
+
+AI Tipping Point
+https://youtu.be/1cKE12LK4Eo?si=JJlF6WpVpt6SrHGV
+
+Education
+https://www.ideou.com/products/design-thinking-certificate
+
+Transform work with full-stack generative AI
+https://writer.com/
+
+Stuff we figured out about AI in 2023
+https://simonwillison.net/2023/Dec/31/ai-in-2023/?ck_subscriber_id=1697806234
+
+Stable Code 3B: Coding on the Edge
+https://stability.ai/news/stable-code-2024-llm-code-completion-release?ck_subscriber_id=1697806234
+
+Convex: AI Development
+https://www.convex.dev/ai
+
+LLMs and Programming in the first days of 2024
+http://antirez.com/news/140?ck_subscriber_id=1697806234
+
+8 ChatGPT Prompts To Create Your 2024 Business Strategy
+https://www.forbes.com/sites/rachelwells/2023/12/05/
+8-chatgpt-prompts-to-create-your-2024-business-strategy/?sh=2288d8df5da5
+
+ChatGTP.js
+https://github.com/KudoAI/chatgpt.js?ck_subscriber_id=1697806234
+
+Google
+- https://bard.google.com/?hl=en&utm_source=tipsandupdates&utm_medium=email&utm_campaign=bardsept_tu
+
+Overflow AI
+- https://stackoverflow.blog/2023/07/27/announcing-overflowai
+- https://stackoverflow.co/labs/
+- Date: 2023-08-03: Emprise signed up
+
+Stunning new AI "could be conscious" - with Elon Musk.
+https://www.youtube.com/watch?v=ixgFtjfO_7Q
+
+Delphia_ai
+https://www.instagram.com/reel/CeAZpe9J5dE/?igshid=YmMyMTA2M2Y=
+
+Writing Tool
+https://jasper.ai/?fpr=writingaitool
+
+Chat GPT templates
+https://www.instagram.com/reel/Cq_SXJxpo1X/?igshid=YmMyMTA2M2Y=
+
+The World's First Robot Lawyer
+https://donotpay.com/
+
+MEGATHREAT: Why AI Is So Dangerous & How It Could Destroy Humanity
+https://youtu.be/itY6VWpdECc
+
+Apple introduces a dedicated ‘Journal’ app to log your daily experiences
+https://techcrunch.com/2023/06/05/apple-introduces-a-dedicated-journal-app-in-ios-17/
+
+AI DOOMERISM IS A DECOY
+https://www.theatlantic.com/technology/archive/2023/06/ai-regulation-sam-altman-bill-gates/674278/
+
+Boxy: Coding with AI
+https://codesandbox.io/signin?continue=/pro
+
+https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io
+The AI takeover of Google Search starts now
+
+Here’s how ads might look in Google’s new AI-powered search experience
+https://www.theverge.com/2023/5/23/23734609/google-search-generative-experience-sge-ai
+
+Reddit: AI
+https://www.reddit.com/search/?q=AI
+
+What is Bard?
+https://www.techradar.com/news/google-bard
+"The bot, however, differs from its rival as it’s connected to the web"
+
+ASK aggregates text-heavy company knowledge & customer communications 
+to reveal ChatGPT-like answers and actionable insights.
+https://www.ask-ai.com/
+
+Raster image scaling
+https://www.instagram.com/reel/Crd7XwPAchM/?igshid=MzRlODBiNWFlZA==
+
+IOS App for Chat GPT
+https://amp.cnn.com/cnn/2023/05/18/tech/chatgpt-app/index.html
+
+Text Summarizer
+https://www.jasper.ai/tools/text-summarizer
+
+Setting up an AI project using JS
+https://github.com/a16z-infra/ai-getting-started?ck_subscriber_id=1697806234
+
+You will have to be competent at something beyond information
+https://youtu.be/bGbxpsAXdMY
+
+Newsletter on AI
+https://www.syntheticmind.io/
+
+Generate English speech from text
+https://bigspeak.ai/
+
+OpenAI: Introducing Whisper: Speech Recognition:
+https://openai.com/blog/whisper/?ck_subscriber_id=1697806234
+
+AI Tools:
+- https://axiom.ai
+- https://appwrite.io/
+
+Writing Tool
+https://jasper.ai/?fpr=writingaitool
+
+The World's First Robot Lawyer
+https://donotpay.com/
+

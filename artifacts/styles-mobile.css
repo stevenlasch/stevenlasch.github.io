@@ -1,3 +1,20 @@
+/* Responsive tweaks */
+@media (min-width: 600px) {
+    main {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
+
+a {
+    color: #007aff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 /* Reset default margins */
 body {
     margin: 0;
@@ -39,13 +56,8 @@ main {
     padding: 1rem;
 }
 
-a {
-    color: #007aff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+small, code {
+    font-size: 0.8rem;
 }
 
 .card {
@@ -67,47 +79,39 @@ a:hover {
     margin-right: 0.5rem;
 }
 
-/* Responsive tweaks */
-@media (min-width: 600px) {
-    main {
-        max-width: 800px;
-        margin: 0 auto;
-    }
-}
-
 .button {
-  display: block;              /* takes full line */
-  width: 100%;                 /* span container width */
-  background: #ffffff;
-  color:  #007aff;
-  text-decoration: none;
-  padding: 0.75rem 1.25rem;
-  border-radius: 8px;
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-top: 0.5rem;
-  cursor: pointer;
-  border: 1px solid #007aff;
-  text-align: left;
-  box-sizing: border-box;      /* keep padding inside width */
+    display: block;              /* takes full line */
+    width: 100%;                 /* span container width */
+    background: #ffffff;
+    color:  #007aff;
+    text-decoration: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    border: 1px solid #007aff;
+    text-align: left;
+    box-sizing: border-box;      /* keep padding inside width */
 }
 
 .bottom-nav {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  justify-content: space-around;
-  background: #000000;
-  border-top: 1px solid #ddd;
-  padding: 0.5rem 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-around;
+    background: #000000;
+    border-top: 1px solid #ddd;
+    padding: 0.5rem 0;
 }
 
 .bottom-nav a {
-  flex: 1;
-  text-align: center;
-  font-size: 1.5rem;
-  text-decoration: none;
-  color: #ffffff;
+    flex: 1;
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #ffffff;
 }
